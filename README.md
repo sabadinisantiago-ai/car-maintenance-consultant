@@ -1,11 +1,13 @@
  Car Maintenance Tracker & Buyer Consultant
- Descripción:
+ 
+DESCRIPCION:
 
 Este proyecto es una herramienta de diagnóstico desarrollada en Python diseñada para ayudar a compradores de autos usados en Argentina (2026). El programa calcula la inversión inicial necesaria basándose en el kilometraje actual y el historial de mantenimiento de las autopartes críticas.
 
 No solo indica si un service es necesario, sino que estima el costo real de los repuestos y mano de obra para facilitar la negociación del precio del vehículo.
 
-Características Principales:
+
+CARACTERISTICAS PRINCIPALES:
 
 Validación de Marca y Modelo: Sistema de filtrado inteligente basado en diccionarios de compatibilidad.
 
@@ -21,7 +23,8 @@ Combustible: Diferenciación de costos y límites entre motores Diesel y Nafta.
 
 Generador de Presupuesto: Cálculo automático de la "Inversión Inmediata" con precios actualizados al mercado argentino de 2026.
 
- Tecnologías Utilizadas:
+
+ TECNOLOGIAS UTILIZADAS:
 
 Lenguaje: Python 3.x
 
